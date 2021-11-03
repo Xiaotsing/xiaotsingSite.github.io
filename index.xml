@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Xiaoyongqing Site</title>
+        <link>https://xiaotsingsite.github.io/</link>
+        <description>Xiaoyongqing Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2541789261@qq.com (xiaoyongqing)</managingEditor>
+            <webMaster>2541789261@qq.com (xiaoyongqing)</webMaster>
+            <atom:link href="https://xiaotsingsite.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
